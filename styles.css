@@ -1,0 +1,172 @@
+body {
+    background-color: #719871;
+  }
+  
+  .kajakk {
+    width: 100%;
+    height: auto;
+  }
+  h1 {
+    display: block;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #2c332c;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    font-size: 40px;
+    font-weight: 10;
+  }
+  
+  .tab {
+    border: 1px solid #d3decf;
+    border-radius: 10px;
+    background: rgb(183, 204, 179);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .tablinks {
+    border: 1px solid rgb(183, 204, 179);
+    border-radius: 20px;
+    background: rgb(183, 204, 179);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: 600;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  }
+  
+  .fakta {
+    padding-left: 20px;
+    display: block;
+    color: #2c332c;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    font-size: 15px;
+  }
+  
+  .fav {
+    padding-left: 20px;
+    display: block;
+    color: #2c332c;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    font-size: 15px;
+  }
+  
+  .punkter {
+    border: outset;
+    border-color: #b4cdb4;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #2c332c;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    font-weight: 100;
+    background-color: #84a684;
+  }
+  
+  #index {
+    text-align: center;
+    color: #2c332c;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    font-weight: 500;
+  }
+  a {
+    color: rgb(193, 226, 192);
+  }
+  .knapper {
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  #fanclub {
+    color: #636966;
+    border: 1px solid #d3decf;
+    border-radius: 20px;
+    background: rgb(183, 204, 179);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 10px;
+    font-weight: 700;
+    cursor: pointer;
+  }
+  
+  #email {
+    border: 1px solid #d3decf;
+    border-radius: 20px;
+    background: rgb(183, 204, 179);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: 700;
+  }
+  
+  .fav {
+    display: flex;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+  }
+  
+  .jobb {
+    width: 100%;
+    height: auto;
+  }
+  
+  .apollo {
+    width: 100%;
+    height: auto;
+  }
+  
+  .cowboy {
+    width: 100%;
+    height: auto;
+  }
+  .sprint {
+    width: 100%;
+    height: auto;
+  }
+  
+  .kontakt {
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+    color: #2c332c;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    font-weight: 500;
+  }
+  
+  .text {
+    border: 1px solid #d3decf;
+    border-radius: 20px;
+    background: rgb(183, 204, 179);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+  }
+  #meld {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 200px;
+    left: 50px;
+    top: 200px;
+    background: rgb(183, 204, 179);
+    border: 1px solid #d3decf;
+    border-radius: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  
+  label {
+    padding-left: 05px;
+  }
+  
