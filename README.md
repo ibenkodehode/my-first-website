@@ -1,8 +1,6 @@
-# modulA-indie
-My first website! Dedicated to my lovely dog
-
-
-This is my very first website and was an assignment for class. Used HTML and CSS. 
+# my-first-website
+This is my very first website and was an assignment for class. 
+Used HTML and CSS. 
 
 
 
